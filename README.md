@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, Arduino, A.I. and more!
 - 🌱 I’m currently learning M.L on python
 - 💞️ I’m looking to collaborate on ML projects.
-- 📫 How to reach me? please dont, im soooo introverted... or my email: mamarrachove@gmail.com
+- 📫 How to reach me? please dont, im soooo introverted... 
 
 <!---
 mamarrachove/mamarrachove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
